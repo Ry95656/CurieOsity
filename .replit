@@ -1,0 +1,3 @@
+# Run the backend Node.js server
+
+run = "node server.js"
